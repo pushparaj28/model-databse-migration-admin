@@ -8,7 +8,8 @@ admin.site.index_title = """
 Welcome Pushpendra 🚀🧑‍💻
 Manage Courses, Students and Instructors
 """  
-# Register your models here.
+#Mene yaha model register add kiye hai. 
+
 
 from django.contrib import admin
 from .models import (
